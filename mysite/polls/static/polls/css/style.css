@@ -1,0 +1,15 @@
+li a {
+    color: green;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: blue;
+}
+
+body {
+    background: white url("../images/roka.jpg") no-repeat;
+}
